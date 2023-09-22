@@ -38,8 +38,8 @@ npm start
 ## ✨ Features
 
 - **Dynamic Form Creation**: The form is generated based on a configuration array. Each object in the array represents a field in the form.
-- **Validation**: Fortm fields are validated based on the rules defined in the configuration array.
-- **Visualization**: he data saved in the Redux store is rendered for visualization.
+- **Validation**: Form fields are validated based on the rules defined in the configuration array.
+- **Visualization**: The data saved in the Redux store is rendered for visualization.
 
 ## 📦 Data Source
 
